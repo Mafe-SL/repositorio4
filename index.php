@@ -8,5 +8,6 @@
 </head>
 <body>
     <h1>Hola crack, soy el index 🐱‍🚀</h1>
+    <h2>Cambio 2</h2>
 </body>
 </html>
